@@ -1,0 +1,180 @@
+*{
+    padding: 0%;
+    margin: 0%;  
+}
+
+
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+
+.tel{
+    height: 4%;
+    width: 4%;  
+    margin-top:  -40%;
+    margin-left: 83%;
+    position: relative;
+}
+.email{
+    height: 4%;
+    width: 4%;
+    margin-bottom: 1%;
+    margin-left: 83%;
+    position: relative;
+
+}
+
+.l{
+    height: 2%;
+    width: 2%;
+    margin-top: -20%;
+    margin-left: 83%;
+    position: relative;
+    
+}
+
+
+
+.nom{
+    color: white;
+    padding-bottom: 0%;
+    padding-right: 65%;
+}
+
+.n1{
+    color: white;
+    list-style-type: none ;
+    text-align: end; 
+    margin-right: 1%;
+    margin-top: 2%;
+}
+
+.n2{
+    word-spacing: 10px;
+    margin-top: 2%;
+    margin-left: 18%;
+}
+
+.n3{
+    margin-top: 2%;
+    margin-left: 21%;
+}
+
+.n4{
+    margin-top: 2%;
+    margin-left: 9%;
+}
+.n5{
+    margin-left: 34.5%;
+}
+
+.ville{
+    margin-left: 3%;
+}
+
+.ville2{
+    margin-left: 1.5%;
+}
+#bac{
+    margin-left: 18%;
+}
+
+#bts{
+    margin-left: 18.3%;
+}
+
+#lycée{
+    margin-left: 17.8%;
+}
+
+.spé{
+    margin-top: 1%;
+    margin-left: 34.8%;
+}
+
+div{
+    margin-top: 3%; 
+}
+
+.i{
+    margin-left: 10%;
+    margin-top: 50%;
+}
+
+.r{
+    margin-left: 45%;
+    margin-bottom: 20%;
+}
+
+.info{
+    margin-left: 25%;
+    list-style-type: none;
+    margin-top: 1%;
+}
+
+.rela{
+    margin-left: 74%;
+    margin-top: -7%;
+}
+
+.compétence{
+    display:block;
+    margin-bottom: 5%;
+}
+
+.c{
+    margin-left: 38%;
+}
+
+.fin{
+    margin-left: 12%;
+    margin-bottom: 5%;
+}
+
+.loisir{
+    margin-left: 55%;
+    list-style-type: none;
+    margin-top: -6%;
+}
+.langue{
+    list-style-type: none;
+}
+
+p{
+    margin-left: 14%;
+    margin-top: 3%;
+}
+
+.liste{
+    color: black;
+    margin-left: 35.5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+
+header{
+    background-color: rgb(0, 0, 0);
+    
+}
+
+h2{
+    text-align: center;
+    color: black;
+    text-decoration:double;
+    margin-top: 2%;
+}
+
+body{
+    background-color: white;
+    
+
+}
+
+h2:hover{
+    color: #f1cd00d7; 
+}

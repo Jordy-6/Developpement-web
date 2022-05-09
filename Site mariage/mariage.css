@@ -1,0 +1,206 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+header{
+    background-color: #fbfbfb;
+    margin-top: 0px;
+    
+}
+
+h1{
+    color: #a0384f;
+    font-size: 60px;
+    font-family: 'Vidaloka';
+    margin-left: 350px;
+    padding-top: 40px;
+    padding-bottom:30px;
+    
+}
+body{
+    background-color: #f1eee9;
+    margin: 0%;
+    padding: 0%;
+    display: block;
+    width: 100%;
+}
+
+
+.feuille{
+    margin-left: 350px;
+    margin-right: 0px;
+    position:absolute;
+    width: 600px;
+    height: 550px;
+    
+}
+.banniere{
+    margin-left: 350px;
+    margin-bottom: 330px;
+    position: relative;
+    background-attachment: fixed;
+}
+
+.album{
+    margin-left: 375px;
+    margin-top: 20px;
+    position: absolute;
+    z-index: 1;
+
+    
+}
+.fleur{
+    margin-left: 575px;
+    margin-top: 20px;
+    position:absolute;
+    z-index: 1;
+    
+}
+main{
+    display: flex;
+    width: 100%;
+    margin-top: 60px;
+}
+
+.robe{
+    margin-left: 770px;
+    margin-top: 19px;
+    height: 184px;
+    width: 133px;
+    position:absolute;
+    z-index: 1;
+}
+
+h2{
+    color: #a0384f;
+    font-size: 20px;
+    font-family: 'Vidaloka';
+}
+
+.famille{
+    margin-top: 230px;
+    margin-left: 405px;
+    position: absolute;
+}
+
+.love{
+    margin-top: 230px;
+    margin-left: 610px;
+    position: absolute;
+}
+
+.classic{
+    margin-top: 230px;
+    margin-left: 795px;
+    position: absolute;
+}
+
+p{
+    color: #343434;
+    font-family: 'Playfair Display';
+}
+.n1{
+    text-align: center;
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 375px;
+}
+
+.n2{
+    text-align: center;
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 575px;
+}
+
+.n3{
+    text-align: center;
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 775px;
+}
+
+.n4{
+    color: #63cebc;
+    font-size: 13px;
+    border-top: 1px solid #63cebc;
+    border-bottom: 1px solid #63cebc;
+    position: absolute;
+    margin-left: 410px;
+    margin-top: 485px;
+    padding: 10px;
+}
+
+.n5{
+    color: #63cebc;
+    font-size: 13px;
+    border-top: 1px solid #63cebc;
+    border-bottom: 1px solid #63cebc;
+    position: absolute;
+    margin-left: 610px;
+    margin-top: 485px;
+    padding: 10px;
+}
+
+.n6{
+    color: #63cebc;
+    font-size: 13px;
+    border-top: 1px solid #63cebc;
+    border-bottom: 1px solid #63cebc;
+    position: absolute;
+    margin-left: 810px;
+    margin-top: 485px;
+    padding: 10px;
+}
+a:hover{
+    color: #a0384f;
+}
+
+.story{
+    margin-top: 250px;
+    margin-left: 350px;
+    position: absolute;
+}
+
+h3{
+    color: #a0384f;
+    font-family: 'Vidaloka';
+    font-size: 40px;
+    position: absolute;
+    margin-top: 265px;
+    margin-left: 360px;
+}
+
+.n7{
+    color: #343434;
+    font-family: 'Playfair Display';
+    font-size: 13px;
+    position: absolute;
+    margin-top: 370px;
+    margin-left: 360px;
+    border-top: 1px solid #fbfbfb;
+    padding-top: 5px;
+}
+
+footer{
+    background-color: #fbfbfb;
+    margin-top: 40%;
+    text-align: center;
+    font-family: 'Playfair Display';  
+    height: 100px;  
+}
+
+.n8{
+    color:#a0384f;
+    font-size: 40px;
+}
+
+.n9{
+    color: #63cebc;
+    font-size: 13px;
+}
+
+.n10{
+    color: #63cebc;
+}

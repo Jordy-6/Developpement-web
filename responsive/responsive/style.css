@@ -1,0 +1,43 @@
+*{
+	/* Réinitialise les marges du navigateur */
+	padding: 0;
+	margin: 0;
+}
+
+section{
+	display: flex;
+	/* permet aux bloques d'être repositionnés au responsive : */
+	flex-wrap: wrap;
+
+	justify-content: space-between;
+}
+
+.rouge{
+	background-color: red;
+}
+.orange{
+	background-color: orange;
+}
+
+article{
+	/* travailler sa structure en % */
+	width: 49%;
+	
+	padding: 1%; /* marge interne */
+
+	/* soustrait les padding et border au width (important pour le responsive) */
+	box-sizing: border-box;
+}
+
+@media(max-width: 500px){
+	/* Tous les écrans qui ont une largeur maximale de 500px */
+
+	/* body{
+		background-color: blue;
+	} */
+
+	article{
+		width: 100%;
+	}
+
+}

@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image:url(fondv.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    font-family: 'Source Serif 4';
+    text-align: center;
+    padding: 2%;
+    background-color: rgb(89, 199, 116);
+}
+
+article{
+    margin: 1%;
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    
+    margin: 5%;
+    margin-left: 25%;
+    width: 50%;
+}
+
+.desc{
+    padding-left: 35%;
+    width: 35%;
+    word-spacing: 100%;
+    font-size: 25px;
+}
+
+footer p{
+    
+    background-color: rgb(89, 199, 116);
+    padding: 1%; 
+    text-align: right;
+}
+
+.tel{
+    margin-top: 10%;
+}
